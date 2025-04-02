@@ -1,8 +1,6 @@
-from telethon import types
 import os
 from time import time
 from pyrogram import enums
-from pyleaves import Leaves
 from collections import defaultdict
 from pyrogram.types import InputMediaPhoto, InputMediaVideo
 
