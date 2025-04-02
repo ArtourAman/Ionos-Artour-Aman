@@ -1,12 +1,12 @@
 # Telegram API Configuration
-API_ID = "20370320"  
-API_HASH = "35ee047c1a13d07951f4ce68cf1be144"  
-BOT_TOKEN = "7282011617:AAF2-0vcZqteRtbS9gEwK_KoAzjSdf-iXYo"  
-SESSION_STRING = "1BVtsOIkBu1h4M60EuwmxBaJNd1XgipIxR6YcYA98DG3AQuY4k7ZOF66R9zgeVuWMeevvJW2KGHprldilrifsMV41z3TDBGy-ReuRujVdvakBsJ_8GwS1Ey0wG1WkwECip2i-TlQWRZX6AFSbp4_DnaWxUT4tWSHyMS1INyY0jxGQyy7lhL9QOn3DWBPukmQ40TKUdO0fJBM0WKa1_DN2RxGY3Fq8w2yIOzW-zc0R3LX8hjv-2iyF6jJZCfrR2CuKZN9WqC338-iqVk40136Ad2h1VYZtFhZrBsEeKZC44Uz5aQirHHx25crbIAUxkAZXIp0yFpyL0w9kI5n1ggTOit4rvAxiJNQ="
+API_ID = ""  
+API_HASH = ""  
+BOT_TOKEN = ""  
+SESSION_STRING = "="
 
 # Channel Configuration
-SOURCE_CHANNEL = [-1001155351611]  # Source channel ID
-TARGET_CHANNEL = [-1002570648989]  # Target channel ID
+SOURCE_CHANNEL = []  # Source channel ID
+TARGET_CHANNEL = []  # Target channel ID
 
 # Forward Timing Configuration
 FORWARD_DELAY_MIN = 10  # Minimum delay between forwards in seconds
